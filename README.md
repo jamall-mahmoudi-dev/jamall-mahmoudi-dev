@@ -18,10 +18,10 @@
 ## 📦 Tech Stack
 
 **DevOps & Tools:**  
-`Kubernetes` `Docker` `Helm` `ArgoCD` `Terraform` `Ansible` `GitLab CI/CD` `Jenkins` `Graylog` `ELK Stack` `Prometheus`  
+`Kubernetes` `Docker` `Helm` `ArgoCD` `Terraform` `Ansible` `GitLab CI/CD` `Graylog` `Graylog` `ELK Stack` `Prometheus`  
 
 **Languages:**  
-`Bash` `Python` `Golang (learning)` `Shell scripting`  
+`Bash` `Python` `Golang` `Shell scripting`  
 
 **Cloud & Security:**  
 `AWS` `DevSecOps` `CKS Certified` `SIEM Tools` `Consul` `Ceph` `GlusterFS`  

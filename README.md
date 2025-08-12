@@ -1,5 +1,5 @@
-# jamallmahmoudi
-# 👋 Hi, I'm Jamal Mahmoudi
+# jamall Mahmoudi
+# 👋 Hi, I'm Jamall Mahmoudi
 
 🎯 **Senior DevOps Engineer | Kubernetes & Cloud Native Enthusiast | Open-source Contributor**  
 💻 Passionate about building scalable systems, automating infrastructure, and contributing to open-source projects.

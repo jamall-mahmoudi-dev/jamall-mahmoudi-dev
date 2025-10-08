@@ -1,4 +1,4 @@
-# Jamall Mahmoudi
+
 # 👋 Hi, I'm Jamall Mahmoudi
 
 🎯 Software Engineer | Senior DevOps&MLOps Engineer | Kubernetes & Cloud Native Enthusiast | Open-source Contributor*  
@@ -21,10 +21,10 @@
 `Kubernetes` `Docker` `Helm` `ArgoCD` `Terraform` `Ansible` `GitLab CI/CD` `Graylog` `Graylog` `ELK Stack` `Prometheus`  
 
 **Languages:**  
-`Bash` `Python` `Golang` `Shell scripting`  
+`C/C++` `Python` `Golang` `Shell scripting`  
 
 **Cloud & Security:**  
-`AWS` `DevSecOps` `CKS Certified` `SIEM Tools` `Consul` `Ceph` `GlusterFS`  
+`AWS` `OpenStack` `DevSecOps` `CKS Certified` `SIEM Tools` `Consul` `Ceph` `GlusterFS`  
 
 ---
 
@@ -40,7 +40,7 @@
 
 - [GitHub](https://github.com/jamallmahmoudi)
 - [Medium](https://medium.com/@devops523)
-- 📬 Email: devops523@gmail.com
+- 📬 Email: devops523@gmail.com, jamallmahmoudi2001@gmail.com
 
 ---
 > “Keep shipping. Keep learning. Keep contributing.” 💡

@@ -1,7 +1,7 @@
 # Jamall Mahmoudi
 # 👋 Hi, I'm Jamall Mahmoudi
 
-🎯 Software engineer | Senior DevOps Engineer | Kubernetes & Cloud Native Enthusiast | Open-source Contributor*  
+🎯 Software Engineer | Senior DevOps&MLOps Engineer | Kubernetes & Cloud Native Enthusiast | Open-source Contributor*  
 💻 Passionate about building scalable systems, automating infrastructure, and contributing to open-source projects.
 
 ---

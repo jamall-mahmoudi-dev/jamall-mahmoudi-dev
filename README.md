@@ -1,21 +1,21 @@
 
-# 👋 Hi, I'm Jamall Mahmoudi
+#  Hi, I'm Jamall Mahmoudi
 
-🎯 Software Engineer | Senior DevOps&MLOps Engineer | Kubernetes & Cloud Native Enthusiast | Open-source Contributor*  
-💻 Passionate about building scalable systems, automating infrastructure, and contributing to open-source projects.
-
----
-
-## 🚀 About Me
-
-- 🔧 7+ years of hands-on experience in DevOps, Linux/Unix systems, and cloud infrastructure
-- 🧠 Skilled in Kubernetes, Docker, Terraform, GitLab CI/CD, Helm, and monitoring stacks like Prometheus & ELK
-- 🌍 Contributor to open-source tools in the cloud-native ecosystem
-- ✍️ I also write about DevOps and Kubernetes on [Medium](https://medium.com/@devops523)
+ Software Engineer | Senior DevOps&MLOps Engineer | Kubernetes & Cloud Native Enthusiast | Open-source Contributor*  
+ Passionate about building scalable systems, automating infrastructure, and contributing to open-source projects.
 
 ---
 
-## 📦 Tech Stack
+##  About Me
+
+-  7+ years of hands-on experience in DevOps, Linux/Unix systems, and cloud infrastructure
+-  Skilled in Kubernetes, Docker, Terraform, GitLab CI/CD, Helm, and monitoring stacks like Prometheus & ELK
+-  Contributor to open-source tools in the cloud-native ecosystem
+-  I also write about DevOps and Kubernetes on [Medium](https://medium.com/@devops523)
+
+---
+
+##  Tech Stack
 
 **DevOps & Tools:**  
 `Kubernetes` `Docker` `Helm` `ArgoCD` `Terraform` `Ansible` `GitLab CI/CD` `Graylog` `Graylog` `ELK Stack` `Prometheus`  
@@ -28,7 +28,7 @@
 
 ---
 
-## 🌱 Currently Working On
+##  Currently Working On
 
 - Learning advanced **Go** for backend + Kubernetes controllers
 - Contributing to Kubernetes & other CNCF projects
@@ -40,7 +40,7 @@
 
 - [GitHub](https://github.com/jamallmahmoudi)
 - [Medium](https://medium.com/@devops523)
-- 📬 Email: devops523@gmail.com, jamallmahmoudi2001@gmail.com
+-  Email: devops523@gmail.com, jamallmahmoudi2001@gmail.com
 
 ---
-> “Keep shipping. Keep learning. Keep contributing.” 💡
+> “Keep shipping. Keep learning. Keep contributing.” 

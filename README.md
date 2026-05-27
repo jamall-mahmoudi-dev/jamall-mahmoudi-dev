@@ -8,7 +8,7 @@
 
 ##  About Me
 
--  7+ years of hands-on experience in DevOps, Linux/Unix systems, and cloud infrastructure
+-  8+ years of hands-on experience in DevOps, Linux/Unix systems, and cloud infrastructure
 -  Skilled in Kubernetes, Docker, Terraform, GitLab CI/CD, Helm, and monitoring stacks like Prometheus & ELK
 -  Contributor to open-source tools in the cloud-native ecosystem
 -  I also write about DevOps and Kubernetes on [Medium](https://medium.com/@devops523)
@@ -18,10 +18,10 @@
 ##  Tech Stack
 
 **DevOps & Tools:**  
-`Kubernetes` `Docker` `Helm` `ArgoCD` `Terraform` `Ansible` `GitLab CI/CD` `Graylog` `Graylog` `ELK Stack` `Prometheus`  
+`Kubernetes Cluster ` `Docker& swarm ` `Helm Chart` `ArgoCD` `Terraform` `Ansible , Puppet` `GitLab CI/CD`  `Graylog` `ELK Stack` `Prometheus`  
 
 **Languages:**  
-`C/C++` `Python` `Golang` `Shell scripting`  
+`C/C++`  `Golang` `Python-Django`  `Shell scripting` `postgreSQL`
 
 **Cloud & Security:**  
 `AWS` `OpenStack` `DevSecOps` `CKS Certified` `SIEM Tools` `Consul` `Ceph` `GlusterFS`  
